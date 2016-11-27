@@ -1,6 +1,5 @@
 # Data-Science-with-python
-This is my practice repo, where I will be playing around with python using pandas, numpy, seaborn and some other libraries
 
-I will only be uploading ipython notebooks that pretty cool and simple to use to play around with data.
-
-Project 1: Titanic survival data
+Project 1: Titanic survival data #pandas #numpy #seaborn #matplotlib
+Project 2: Wrangle Openstreet Datamap (inprogress) #mongodb #sql #pymongo
+Project 3: Test a perceptual phenomenon (inprogress) #statistics #noCode)
